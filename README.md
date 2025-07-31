@@ -8,8 +8,6 @@ This project is a Retrieval-Augmented Generation (RAG) based chatbot built with 
 - ✅ Google Gemini 1.5 Flash (Free Tier API)
 - ✅ Token-efficient RAG
 
-> ⚠️ This project is for testing/interview purposes only and not intended for deployment.
-
 ## How to Run
 
 1. Create `.env` file:
